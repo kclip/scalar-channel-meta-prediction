@@ -1,1 +1,1 @@
-python ../../../main_offline.py  --window_length 5 --lag 3  --num_paths 5     --linear_ridge_mode 0 --if_ridge --ridge_lambda_coeff 1  --if_wiener_filter_as_ols   --fading_mode 1 --num_samples_for_test 10000  --normalize_factor_meta_ridge 1 --normalize_factor 1  --if_exp_over_supp;
+python ../../../main_offline.py  --window_length 5 --lag 3  --num_paths 1     --linear_ridge_mode 0 --if_ridge --ridge_lambda_coeff 1  --if_wiener_filter_as_ols   --fading_mode 1 --num_samples_for_test 10000  --normalize_factor_meta_ridge 1 --normalize_factor 1  --if_exp_over_supp;
